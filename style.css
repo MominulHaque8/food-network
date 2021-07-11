@@ -1,0 +1,25 @@
+body{
+    font-family: 'Shippori Mincho', serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.Order-Food-Button{
+    text-decoration: none;
+    background-color: orange;
+    background-image: linear-gradient(orange,tomato);
+    padding: 13px 25px;
+    border-radius: 30px;
+    color: white;
+    font-weight: 800;
+}
