@@ -64,3 +64,10 @@ p{
     position: relative; 
     top: 20px;
 }
+.text-center{
+    width: 100%;
+    text-align: center;
+}
+.background-footer{
+background: skyblue;
+}
